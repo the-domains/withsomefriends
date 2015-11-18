@@ -1,0 +1,23 @@
+name: WITHSOMEFRIENDS
+favicon: null
+layout_spectrum: 0.9898108919151127
+typography_spectrum: 0.4812802094966173
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8514826830942184
+  lightness: 0.9643030161969364
+  saturation: 0.4819506553467363
+  rhythmicContrast: 0.321724722860381
+purpose: []
