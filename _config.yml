@@ -2,6 +2,7 @@ name: WITHSOMEFRIENDS
 favicon: null
 layout_spectrum: 0.9898108919151127
 typography_spectrum: 0.4812802094966173
+title: WSF
 cta:
   domain: null
   bucket: null
