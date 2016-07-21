@@ -1,7 +1,7 @@
 name: WITHSOMEFRIENDS
 favicon: null
-layout_spectrum: 0.9898108919151127
-typography_spectrum: 0.4812802094966173
+layout_spectrum: 0
+typography_spectrum: 0.56428
 title: WSF
 cta:
   domain: null
@@ -16,7 +16,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#eeeeee'
+    - '#000004'
+    - '#a00004'
+    - '#8a3a23'
+    - '#706a8b'
   brandStrength: 0.8514826830942184
   lightness: 0.9643030161969364
   saturation: 0.4819506553467363
