@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[WSF]]></title>
-        <description><![CDATA[WSF]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[With Some Friends]]></title>
+        <description><![CDATA[With Some Friends]]></description>
+        <link>http://withsomefriends.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 20:50:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jul 2016 21:46:46 GMT</lastBuildDate>
+        <atom:link href="http://withsomefriends.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Spring Cookout]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/adfbef12-3e2d-4837-be00-ce79c553e60e.png" alt="" title="" />]]></description>
+            <link>http://withsomefriends.com/spring-cookout/index.html</link>
+            <guid isPermaLink="false">6bac6285-3e31-47e4-8710-6d3081f0e14c</guid>
+            <pubDate>Thu, 21 Jul 2016 21:46:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>https://soundcloud.com/w-s-f-001/merica-by-90</p>]]></description>
-            <link>undefined2c2b2465-d257-47fb-84b1-f7de21de29e3/index.html</link>
+            <link>http://withsomefriends.com/2c2b2465-d257-47fb-84b1-f7de21de29e3/index.html</link>
             <guid isPermaLink="false">2c2b2465-d257-47fb-84b1-f7de21de29e3</guid>
             <pubDate>Thu, 21 Jul 2016 20:49:45 GMT</pubDate>
         </item>
