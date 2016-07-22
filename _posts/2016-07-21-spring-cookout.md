@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'April 15, 2016 —W*S*F Vol. 8: Spring Cookout'
-datePublished: '2016-07-21T21:51:50.746Z'
-dateModified: '2016-07-21T21:51:38.859Z'
+datePublished: '2016-07-22T04:42:34.329Z'
+dateModified: '2016-07-22T04:41:58.637Z'
 title: ''
 author:
   - name: ''
@@ -15,9 +15,9 @@ via: {}
 sourcePath: _posts/2016-07-21-spring-cookout.md
 authors: []
 publisher:
-  name: ''
+  name: null
   domain: null
-  url: ''
+  url: null
   favicon: null
 starred: false
 url: spring-cookout/index.html
