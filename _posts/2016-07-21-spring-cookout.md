@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'April 15, 2016 —W*S*F Vol. 8: Spring Cookout'
-datePublished: '2016-07-22T04:42:34.329Z'
-dateModified: '2016-07-22T04:41:58.637Z'
+datePublished: '2016-07-22T04:50:50.371Z'
+dateModified: '2016-07-22T04:50:30.356Z'
 title: ''
 author:
   - name: ''
